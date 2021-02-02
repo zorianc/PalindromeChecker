@@ -1,7 +1,14 @@
 # Palindrome Checker
 ====================
 
-A [palindrome](http://en.wikipedia.org/wiki/Palindrome)  is a word, phrase, number, or other sequence of characters which reads the same backward or forward. Allowances may be made for adjustments to capital letters, punctuation, and word dividers. Famous examples include "A man, a plan, a canal, Panama!", "Amor, Roma", "race car", "taco cat", and "No 'x' in Nixon".
+A [palindrome](http://en.wikipedia.org/wiki/Palindrome)  is a word, phrase, number, or other sequence of characters which reads the same backward or forward - simple examples: REVIVER, MADAM, DEIFIED. More interesting examples include allowances for capital letters, punctuation, and word dividers.
+
+These famous examples include: 
+- "A man, a plan, a canal, Panama!"
+- "Amor, Roma"
+- "race car"
+- "taco cat"
+- "No 'x' in Nixon".
 
 Suggested steps to complete this assignment
 -------------------------------------------
